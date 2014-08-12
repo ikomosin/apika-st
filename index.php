@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
-    X
-</body>
-</html>
+<?php include('/includes/body-open.php'); ?>
+<?php include('/includes/header.php'); ?>
+<div class="row">
+	<div class="col-md-3"><?php include('/includes/left-tree.php'); ?></div>
+	<div class="col-md-9">
+	<?php include('/includes/index.php'); ?>
+	</div>
+</div>
+<?php include('/includes/footer.php'); ?>
+<?php include('/includes/body-close.php'); ?>

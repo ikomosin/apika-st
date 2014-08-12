@@ -1,0 +1,17 @@
+*{
+	font-family: Calibri;
+}
+#header-contacts{
+	text-align: right;
+}
+#header-row{
+	margin-bottom: 15px;
+}
+#slider-send-button{
+	position: absolute;
+	margin-top: -62px;
+	right: 33px;
+}
+div[u="slides"]{
+	border-radius: 4px;
+}
