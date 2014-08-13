@@ -1,6 +1,6 @@
 <div class="row" id="header-row">
 	<div class="col-md-8">
-		<a href="/index.php"><img src="/images/logo.jpg"></a>
+		<a href="/index.php"><img src="/images/logo2.png"></a>
 	</div>
 	<div class="col-md-4" id="header-contacts">
 		<div>ПРОИЗВОДСТВО, ДОСТАВКА, МОНТАЖ</div>
@@ -11,7 +11,7 @@
 </div>
 <div class="row">
 	<div class="col-md-3">
-		<ul class="list-group">
+		<ul class="list-group" id="left-menu">
 			<li class="list-group-item"><a href="/index.php">Главная</a></li>
 			<li class="list-group-item"><a href="/products.php">Продукты</a></li>
 			<li class="list-group-item"><a href="/services.php">Услуги</a></li>
@@ -30,6 +30,6 @@
 		        <div><img u="image" src="/images/4.jpg" /></div>
 		    </div>
 		</div>
-		<a class="btn btn-default btn-lg" id="slider-send-button">Отправить заявку на расчёт</a>
+		<a class="btn btn-default btn-lg gradient" id="slider-send-button">Отправить заявку на расчёт</a>
 	</div>
 </div>

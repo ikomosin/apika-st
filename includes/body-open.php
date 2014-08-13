@@ -12,6 +12,7 @@
 		<script type="text/javascript" src="/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="/js/jssor.slider.mini.js"></script>
 		<script type="text/javascript" src="/js/scripts.js"></script>
+		<!--[if gte IE 9]><style type="text/css">.gradient {filter: none;}</style><![endif]-->
 	</head>
 	<body class="">
 		<div class="container">

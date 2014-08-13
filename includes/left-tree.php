@@ -17,14 +17,3 @@
 	<li class="list-group-item">Ограждения и перила</li>
 	<li class="list-group-item">Противопожарные перегородки</li>
 </ul>
-<style type="text/css">
-	#left-tree{
-		
-	}
-	#left-tree > .list-group-item{
-
-	}
-	#left-tree > .list-group-item.sub{
-
-	}
-</style>
