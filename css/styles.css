@@ -60,5 +60,33 @@ div[u="slides"]{
 {
 	color: #424242;
 }
-
-
+.product-thumb{
+	height: 150px;
+	border: solid 5px #ccc;
+	background: #F3F3F3;
+	text-align: center;
+	position: relative;
+}
+.product-thumb-text{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -10px;
+	margin-left: -30px;
+}
+.form-control::-webkit-input-placeholder{
+	color:#bbb;
+	font-style: italic;
+}
+.form-control::-moz-placeholder{
+	color:#bbb; 
+	font-style: italic;
+} /* FF 19+ */
+.form-control:-moz-placeholder{
+	color:#bbb;
+	font-style: italic;
+} /* FF 18- */
+.form-control:-ms-input-placeholder{
+	color:#bbb;
+	font-style: italic;
+}
