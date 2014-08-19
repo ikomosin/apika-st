@@ -17,7 +17,7 @@
 		<p>КПП 770301001</p>
 	</div>
 	<div class="col-md-8">
-		<form class="form">
+		<form class="form" method="post">
 			<div class="col-md-12">
 				<h2>Оставить заявку</h2>
 			</div>

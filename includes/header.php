@@ -30,6 +30,6 @@
 		        <div><img u="image" src="/images/4.jpg" /></div>
 		    </div>
 		</div>
-		<a class="btn btn-default btn-lg gradient" id="slider-send-button">Отправить заявку на расчёт</a>
+		<a class="btn btn-default btn-lg gradient" id="slider-send-button" href="/contacts.php">Отправить заявку на расчёт</a>
 	</div>
 </div>
